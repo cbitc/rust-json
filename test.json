@@ -1,0 +1,15 @@
+{
+    "name": "Lion",
+    "age": 30,
+    "isStudent": false,
+    "grades": [
+        90,
+        85,
+        75
+    ],
+    "address": {
+        "street": "123 Main St",
+        "city": "fly"
+    },
+    "email": null
+}
