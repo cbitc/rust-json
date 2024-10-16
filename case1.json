@@ -1,3 +1,10 @@
 {
-    "name": "hcc"
+    "name": "Lion",
+    "age": 30,
+    "isStudent": false,
+    "address": {
+        "street": "123 Main St",
+        "city": "fly"
+    },
+    "email": null
 }
